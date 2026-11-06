@@ -1,0 +1,124 @@
+#EXTM3U
+# Playlist di prova Dexi Player - stesso video in 40 varianti
+# Ogni voce ha un nome identificativo per riconoscere il risultato nell'app.
+# Gli attributi sono tentativi sperimentali: non tutti sono necessariamente supportati da Dexi Player.
+
+#EXTINF:-1 type="movie" group-title="VOD",Test 01 - type movie / VOD
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 type="movies" group-title="VOD",Test 02 - type movies / VOD
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 type="vod" group-title="VOD",Test 03 - type vod / VOD
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 type="video" group-title="VOD",Test 04 - type video / VOD
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 group-title="Movie",Test 05 - gruppo Movie
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 group-title="Movies",Test 06 - gruppo Movies
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 group-title="VOD",Test 07 - gruppo VOD
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 group-title="Video",Test 08 - gruppo Video
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 group-title="Film",Test 09 - gruppo Film
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 group-title="Films",Test 10 - gruppo Films
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 type="movie" group-title="Movies",Test 11 - type movie / Movies
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 type="movies" group-title="Movie",Test 12 - type movies / Movie
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 type="vod" group-title="Movies",Test 13 - type vod / Movies
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 type="video" group-title="Movies",Test 14 - type video / Movies
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 media-type="movie" group-title="VOD",Test 15 - media-type movie
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 media-type="movies" group-title="VOD",Test 16 - media-type movies
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 media-type="video" group-title="VOD",Test 17 - media-type video
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 content-type="movie" group-title="VOD",Test 18 - content-type movie
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 content-type="vod" group-title="VOD",Test 19 - content-type vod
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 tvg-type="movie" group-title="VOD",Test 20 - tvg-type movie
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 tvg-type="movies" group-title="VOD",Test 21 - tvg-type movies
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 tvg-type="vod" group-title="VOD",Test 22 - tvg-type vod
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 category="movie" group-title="VOD",Test 23 - category movie
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 category="movies" group-title="VOD",Test 24 - category movies
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 category="vod" group-title="VOD",Test 25 - category vod
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 class="movie" group-title="VOD",Test 26 - class movie
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 class="vod" group-title="VOD",Test 27 - class vod
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 media="movie" group-title="VOD",Test 28 - media movie
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 media="vod" group-title="VOD",Test 29 - media vod
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 stream-type="movie" group-title="VOD",Test 30 - stream-type movie
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 stream-type="vod" group-title="VOD",Test 31 - stream-type vod
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 group-title="VOD" type="movie",Test 32 - attributi invertiti
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 tvg-duration="3600" type="movie" group-title="VOD",Test 33 - durata 3600
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 tvg-duration="0" type="movie" group-title="VOD",Test 34 - durata 0
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 group-title="Video On Demand" type="movie",Test 35 - gruppo Video On Demand
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 group-title="VOD Movies" type="movie",Test 36 - gruppo VOD Movies
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 group-title="On Demand" type="movie",Test 37 - gruppo On Demand
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 group-title="Catchup" type="movie",Test 38 - gruppo Catchup
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 tvg-id="movie" type="movie" group-title="VOD",Test 39 - tvg-id movie
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 tvg-name="movie" type="movie" group-title="VOD",Test 40 - tvg-name movie
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
