@@ -1,13 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 type="movie" group-title="Affari a 4 ruote Italia",Golf - Test Italia
-https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
-
-#EXTINF:-1 type="movie" group-title="Affari a 4 ruote: World tour",Golf - Test World Tour
-https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
-
-#EXTINF:-1 type="movie" group-title="Affari a 4 ruote",Golf - Test originale
-https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
-
-#EXTINF:-1 type="movie" group-title="Affari a 4 ruote Francia",Golf - Test Francia
+#EXTINF:-1 type="movie" group-title="VOD" tvg-name="Affari a 4 ruote Italia",Affari a 4 ruote Italia - Golf
 https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
