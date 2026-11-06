@@ -1,9 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://share.deepstorage.dev/b70c0e742a17387a32473b7d8300692d/Golf.jpeg" group-title="VOD Affari a 4 ruote Italia",Golf 1982
-https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+#EXTINF:-1 tvg-logo="https://images.aurora.enhanced.live/it/images/video/EHD_221720B/default.jpg?bf=0&f=jpg&p=true&q=70&w=300" group-title="VOD Affari a 4 ruote Italia",Citroen Pallas
+https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3OTQwMDM1ODYsIm5iZiI6MTc5NDAwMzU4NiwiZXhwIjoxNzk0MDAzOTQ2LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiNS4xMS4xMTYuMTg2In0.Fzvs3b-H2OPWm2hUi6x32yiwaKfXITCUsHxVy1H3-nM/it/EHD_221720B/dash/EHD_221720B_DPLUS_ITALY.mpd
 
-#EXTINF:-1 tvg-logo="https://share.deepstorage.dev/ffa82fe9484bb0b429b5c78b39c4d01c/Citroen%20DS%20Pallas.jpeg" group-title="VOD Affari a 4 ruote Italia",Citroen Pallas
-https://share.deepstorage.dev/965076ae4248009470c6934e96bd7f5b/Citroen%20DS%20Pallas.mp4
+#EXTINF:-1 tvg-logo="https://images.aurora.enhanced.live/it/images/video/EHD_221719B/default.jpg?bf=0&f=jpg&p=true&q=70&w=300" group-title="VOD Affari a 4 ruote Italia",Golf 1982
+https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3OTQwMDM4MDAsIm5iZiI6MTc5NDAwMzgwMCwiZXhwIjoxNzk0MDA0MTYwLCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiNS4xMS4xMTYuMTg2In0.yYpLxKJ7sq-YjAbCpara2Ltax-31KSdPRe37bPMb6Tc/it/EHD_221719B/dash/EHD_221719B_DPLUS_ITALY.mpd
 
-#EXTINF:-1 group-title="VOD Affari a 4 ruote Italia",Prova
-https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3OTM5MDU4ODcsIm5iZiI6MTc5MzkwNTg4NywiZXhwIjoxNzkzOTA2MjQ3LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMjE3LjIwMi45My45MSJ9.NenY-3VY1ivL8hpIbqQqI2Xs4uOomn2g0fw1KzgAM8g/it/EHD_620167B/dash/EHD_620167B_DPLUS_ITALY.mpd
+#EXTINF:-1 tvg-logo="https://images.aurora.enhanced.live/it/images/video/EHD_221716B/default.jpg?bf=0&f=jpg&p=true&q=70&w=300" group-title="VOD Affari a 4 ruote Italia",Alfa Spider
+https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3OTQwMDQxMTUsIm5iZiI6MTc5NDAwNDExNSwiZXhwIjoxNzk0MDA0NDc1LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiNS4xMS4xMTYuMTg2In0.oqLbY5wSkE0AZgMBFVGaTGvs5R1-nd35GpJs8nb3kMA/it/EHD_221716B/dash/EHD_221716B_DPLUS_ITALY.mpd
+
