@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 type="movie" group-title="VOD",Golf - Categoria VOD
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 group-title="Film",Golf - Categoria Film
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 group-title="Films",Golf - Categoria Films
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD Movies",Golf - Categoria VOD Movies
+https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
