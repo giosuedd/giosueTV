@@ -1,8 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://share.deepstorage.dev/b70c0e742a17387a32473b7d8300692d/Golf.jpeg",Golf 1982
+#EXTSIZE: big
 https://share.deepstorage.dev/fed65cc4eeb85cde55eff9da1deee723/Golf.mp4
 
-#EXTINF:-1 tvg-logo="https://share.deepstorage.dev/ffa82fe9484bb0b429b5c78b39c4d01c/Citroen%20DS%20Pallas.jpeg",Citroen Pallas
+#EXTINF:-1 ,Citroen Pallas
+#EXTSIZE: big
+#EXTBG:https://share.deepstorage.dev/ffa82fe9484bb0b429b5c78b39c4d01c/Citroen%20DS%20Pallas.jpeg
 https://share.deepstorage.dev/965076ae4248009470c6934e96bd7f5b/Citroen%20DS%20Pallas.mp4
 
 #EXTINF:-1 tvg-logo="https://share.deepstorage.dev/72c713445df110ebcba86213c8c8ebcd/Alfa%20Spider.jpeg",Alfa spider
