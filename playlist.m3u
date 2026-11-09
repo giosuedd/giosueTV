@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:0 type="playlist",Affari a 4 ruote Italia
+#EXTSIZE: big
+#EXTBG: https://share.deepstorage.dev/289c99c76e6f597bc7b0855325670b27/a4r%20italia.png
 https://giosuedd.github.io/giosueTV/a4rita.m3u
 
 #EXTINF:0 type="playlist",Affari a 4 ruote Francia
+#EXTSIZE: big
 https://giosuedd.github.io/giosueTV/a4rfra.m
