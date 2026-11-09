@@ -1,9 +1,10 @@
 #EXTM3U
-#EXTINF:0 type="playlist",Affari a 4 ruote Italia
+#EXTINF:0 tvg-logo="https://share.deepstorage.dev/7706305187505242492/Italia.png" type="playlist",Affari a 4 ruote Italia
 #EXTSIZE: big
 #EXTBG: https://share.deepstorage.dev/289c99c76e6f597bc7b0855325670b27/a4r%20italia.png
 https://giosuedd.github.io/giosueTV/a4rita.m3u
 
-#EXTINF:0 type="playlist",Affari a 4 ruote Francia
+#EXTINF:0 tvg-logo="https://share.deepstorage.dev/7706305020001517964/Francia.png" type="playlist",Affari a 4 ruote Francia
 #EXTSIZE: big
+#EXTBG: https://share.deepstorage.dev/50f2da39d0a4a3b489451db96e038d21/a4r%20fra.png
 https://giosuedd.github.io/giosueTV/a4rfra.m
