@@ -1,33 +1,80 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.aurora.enhanced.live/it/images/video/EHD_620167B/default.jpg?w=1024&f=jpg&q=75",Peugeot 106 Rally
+#EXTINF:-1,Peugeot 106 Rally
+#EXTSIZE: big
+#EXTBG: https://images.aurora.enhanced.live/it/images/video/EHD_620167B/default.jpg?w=1024&f=jpg&q=75
 https://share.deepstorage.dev/70af503e2cd639e422f9ed1d2d217e6b/Peugeot%20106Rally.mp4
 
-#EXTINF:-1 tvg-logo="https://images.aurora.enhanced.live/it/images/video/EHD_620166B/default.jpg?w=1024&f=jpg&q=75",Alphine A310
+#EXTINF:-1,Alphine A310
+#EXTSIZE: big
+#EXTBG: https://images.aurora.enhanced.live/it/images/video/EHD_620166B/default.jpg?w=1024&f=jpg&q=75
 https://share.deepstorage.dev/7078f0a7f18cd2a5482d1dd961e52d8a/Alphine%20A310.mp4
 
-#EXTINF:-1 tvg-logo="https://images.aurora.enhanced.live/it/images/video/EHD_523853B/default.jpg?w=1024&f=jpg&q=75", Fiat 500
+#EXTINF:-1,Fiat 500
+#EXTSIZE: big
+#EXTBG: https://images.aurora.enhanced.live/it/images/video/EHD_523853B/default.jpg?w=1024&f=jpg&q=75
 https://share.deepstorage.dev/c354d668a3a929b6e60b84e10eb74e89/Fiat%20500.mp4
 
-#EXTINF:-1 tvg-logo="https://share.deepstorage.dev/2a724c791ede4521150ea661e1d9ecd2/Marcadier%20Barzoi.jpeg", Marcadier Barzoi
+#EXTINF:-1,Marcadier Barzoi
+#EXTSIZE: big
+#EXTBG: https://share.deepstorage.dev/2a724c791ede4521150ea661e1d9ecd2/Marcadier%20Barzoi.jpeg
 https://share.deepstorage.dev/e0712fc63a19d628fa5bc93c12eecfa4/Marcadier%20Barzoi.mp4
 
-#EXTINF:-1 tvg-logo="https://images.aurora.enhanced.live/it/images/video/EHD_523850B/default.jpg?w=1024&f=jpg&q=75", Saviem
+#EXTINF:-1,Saviem
+#EXTSIZE: big
+#EXTBG: https://images.aurora.enhanced.live/it/images/video/EHD_523850B/default.jpg?w=1024&f=jpg&q=75
 https://share.deepstorage.dev/bc65fb715dd22233fc8146cfb40a7610/Saviem.mp4
 
-#EXTINF:-1 tvg-logo="https://images.aurora.enhanced.live/it/images/video/EHD_523849B/default.jpg?w=1024&f=jpg&q=75", Jaguar XK150
+#EXTINF:-1,Jaguar XK150
+#EXTSIZE: big
+#EXTBG: https://images.aurora.enhanced.live/it/images/video/EHD_523849B/default.jpg?w=1024&f=jpg&q=75
 https://share.deepstorage.dev/6200a4a82327d5006c48216c07105a4d/Jaguar.mp4
 
-#EXTINF:-1 tvg-logo="https://images.aurora.enhanced.live/it/images/video/EHD_523844B/default.jpg?w=1024&f=jpg&q=75", Matra Bagheera
+#EXTINF:-1,Matra Bagheera
+#EXTSIZE: big
+#EXTBG: https://images.aurora.enhanced.live/it/images/video/EHD_523844B/default.jpg?w=1024&f=jpg&q=75
 https://share.deepstorage.dev/58c3d6e57c320ac3d3ee0f076ec3fde1/Matra%20Bagheera.mp4
 
-#EXTINF:-1 tvg-logo="https://share.deepstorage.dev/50bcc41d096452150a11cb7d005d86ce/Lotus%20Seanbeam%20Rally.jpeg", Lotus Seanbeam Rally
+#EXTINF:-1,Lotus Seanbeam Rally
+#EXTSIZE: big
+#EXTBG: https://share.deepstorage.dev/50bcc41d096452150a11cb7d005d86ce/Lotus%20Seanbeam%20Rally.jpeg
 https://share.deepstorage.dev/6509ae7964f254751debff9e65dd6d88/Lotus%20Seanbeam%20Rally.mp4
 
-#EXTINF:-1 tvg-logo="https://share.deepstorage.dev/2ce7287fe597f1930ebb06826ac281d1/Peugeot%20403%20Berlina.png", Peugeot 403 Cabriolet
+#EXTINF:-1,Peugeot 403 Cabriolet
+#EXTSIZE: big
+#EXTBG: https://share.deepstorage.dev/2ce7287fe597f1930ebb06826ac281d1/Peugeot%20403%20Berlina.png
 https://share.deepstorage.dev/d022cdd1095d1c56c6cf6a8827a1deac/Peugeot%20403%20Cabriolet.mp4
 
-#EXTINF:-1 tvg-logo="https://images.aurora.enhanced.live/it/images/video/EHD_430637B/default.jpg?w=1024&f=jpg&q=75", Ford Thunderbird
+#EXTINF:-1,Ford Thunderbird
+#EXTSIZE: big
+#EXTBG: https://images.aurora.enhanced.live/it/images/video/EHD_430637B/default.jpg?w=1024&f=jpg&q=75
 https://share.deepstorage.dev/6e8e70eba83179551e2c64c2717345bb/Ford%20Thunderbird.mp4
 
-#EXTINF:-1 tvg-logo="https://images.aurora.enhanced.live/it/images/video/EHD_430641B/default.jpg?w=1024&f=jpg&q=75", Matra 530
+#EXTINF:-1,Matra 530
+#EXTSIZE: big
+#EXTBG: https://images.aurora.enhanced.live/it/images/video/EHD_430641B/default.jpg?w=1024&f=jpg&q=75
 https://share.deepstorage.dev/40f2a42979b48ed6e1086e97c8f82fdb/Matra%20530.mp4
+
+#EXTINF:-1,BMW 2002 Turbo
+#EXTSIZE: big
+#EXTBG: https://share.deepstorage.dev/cf700a5526f18a9257fa65f871e0f001/BMW%202002%20Turbo.png
+https://share.deepstorage.dev/f785b26be0e3c58302bac8a028801f49/BMW%202002%20Turbo.mp4
+
+#EXTINF:-1, Simca 1000 Coupè Bertone
+#EXTSIZE: big
+#EXTBG: https://share.deepstorage.dev/f148c86706c03f626f632739ab86a0af/Simca%20100%20Coup%C3%A8%20Bertone.png
+https://share.deepstorage.dev/a5940c063f817b71060dd5782c1eac44/Simca%201000%20Coup%C3%A8%20Bertone.mp4
+
+#EXTINF:-1, Ford T 1920
+#EXTSIZE: big 
+#EXTBG: https://share.deepstorage.dev/ba765bfc3b43f73fab89449574c583ba/Ford%20T%201920.png
+https://share.deepstorage.dev/8eab5ed310d6cfa6fb00dceb2e0e4ecc/Ford%20T%201920.mp4
+
+#EXTINF:-1, Peugeot 301 Balilla
+#EXTSIZE: big
+#EXTBG: https://share.deepstorage.dev/14f61d91013e164064ade5e2bb359aed/Peugeot%20301%20Balilla.png
+https://share.deepstorage.dev/20750b83f47b9344680084d3ac9727fb/Peugeot%20301%20Balilla.mp4
+
+#EXTINF:-1, Mercedes Pagoda
+#EXTSIZE: big 
+#EXTBG: https://share.deepstorage.dev/1e32cba7481253f49d348d11ee4b92c8/Mercedes%20Pagoda%202301SL.png
+https://share.deepstorage.dev/2b55cdaaad460bbe9c7ab8cce2e71c76/Mercedes%20Pagoda.mp4
